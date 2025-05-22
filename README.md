@@ -1,2 +1,2 @@
 # yacsniper
-Yes another code snip organizer
+Yet another code snip organizer
