@@ -1,4 +1,4 @@
-# Yacsniper
+# Yacsnips
 ## Yet Another Code Snip Organizer
 ### Desktop Database to store, organize, and access code snippets
 
@@ -9,7 +9,7 @@ Uses python 3 and Tkinter with ttkthemes
 
 ![alttext](images/csnips1.png "title")
 
-_Yacsniper_ is a versatile database manager designed for organizing code snippets, 
+_Yacsnips_ is a versatile database manager designed for organizing code snippets, 
 structured around topics and items. For example, a topic could be "Python," while an item might be "Formatting."
 
 The database includes various pre-defined topics and items, 
